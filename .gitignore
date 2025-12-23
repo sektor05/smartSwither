@@ -1,0 +1,13 @@
+# Build artifacts
+*/build/
+*.bin
+*.hex
+*.elf
+
+# KiCad files
+*.kicad_pcb-bak
+*.sch-bak
+*.pro.user
+*.cache/
+*.lck
+fp-info-cache
