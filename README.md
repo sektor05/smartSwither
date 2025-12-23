@@ -52,6 +52,8 @@ The system uses a 2-pair cable (e.g., KSPV or shielded twisted pair) for both po
 
 The PCB is designed to be compact, leaving enough space for wiring even in shallow switch boxes.
 
-## Future Plans
+## Related Articles
+
+*   [Умный свет своими руками: Делаем "умным" любой выключатель по шине CAN](https://project-wave.ru/2025/12/23/%d1%83%d0%bc%d0%bd%d1%8b%d0%b9-%d1%81%d0%b2%d0%b5%d0%b4-%d1%81%d0%b2%d0%be%d0%b8%d0%bc%d0%b8-%d1%80%d1%83%d0%ba%d0%b0%d0%bc%d0%b8-%d0%b4%d0%b5%d0%bb%d0%b0%d0%b5%d0%bc-%d0%82%d1%83%d0%bc%d0%bd%d1%8b%d0%bc/)
 
 The next article will provide a detailed breakdown of the PCB schematic, component selection, and the board layout process in EasyEDA/KiCad.
